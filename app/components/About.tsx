@@ -8,7 +8,7 @@ function About() {
                 <h1 className=' text-2xl'>ABOUT</h1>
                 <div className='line w-20 h-1 bg-purple-600'></div>
             </div>
-            <h1 className=' text-9xl font-bold'>PROMPTLY</h1>
+            <h2 className=' text-9xl font-bold'>Phrase Smith</h2>
         </div>
         <div className=' text-xl pt-5'>
             A platform to harnesses the power of advanced AI to provide engaging prompts. 
